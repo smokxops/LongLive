@@ -1,8 +1,8 @@
 <p align="center" style="border-radius: 10px">
-  <img src="assets/longlive2/logo.png" width="100%" alt="LongLive2.0 logo"/>
+  <img src="assets/longlive2/logo.png" width="150%" alt="LongLive2.0 logo"/>
 </p>
 
-# 🎬 LongLive 2.0: An NVFP4 Parallel Infrastructure for Long Video Generation
+# 🎬 LongLive 2.0: An NVFP4 Parallel Infrastructure for Long Video Generation.
 
 [![Paper](https://img.shields.io/badge/ArXiv-Paper-brown)](https://arxiv.org/abs/2605.18739)
 [![Code](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/NVlabs/LongLive)
